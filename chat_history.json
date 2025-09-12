@@ -1,0 +1,42 @@
+[
+  {
+    "role": "human",
+    "content": "hello my name is ashish"
+  },
+  {
+    "role": "ai",
+    "content": "Hello Ashish! Nice to meet you. How can I help you today?"
+  },
+  {
+    "role": "human",
+    "content": "give faculitly name in our college"
+  },
+  {
+    "role": "ai",
+    "content": "Hello there! The faculty members in our college are Dr. Das, Dr. Sharma, and Prof. Patil."
+  },
+  {
+    "role": "human",
+    "content": "how many faculitly in our colleg"
+  },
+  {
+    "role": "ai",
+    "content": "Hello there! Based on the information I have, there are 3 faculty members listed."
+  },
+  {
+    "role": "human",
+    "content": "what is my name"
+  },
+  {
+    "role": "ai",
+    "content": "Oh, I'm sorry, I don't have access to your personal information like your name from the details I have here. I can only provide information about the faculty!"
+  },
+  {
+    "role": "human",
+    "content": "byy byy"
+  },
+  {
+    "role": "ai",
+    "content": "Oh, hello there! As Santilal Shah Bot, I can only help you with information about our college faculty based on what I know. Your question \"Is this goodbye?\" isn't something I have information about, so I can't answer it. Is there anything else I can help you with regarding our faculty?"
+  }
+]
